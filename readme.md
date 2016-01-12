@@ -28,6 +28,11 @@ Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
 VP9  | 12Mbps | 6Mbps | 3Mbps
 x265 | 12Mbps | 6Mbps | 3Mbps
+
+**Next Generation Codecs (UltraHD)**
+
+Codec  | High | Medium | Low
+------------- | -------------  | -------------  | ------------- 
 VP9 (UltraHD)  | 32Mbps | 24Mbps | 12Mbps
 x265 (UltraHD)  | 32Mbps | 24Mbps | 12Mbps
 
