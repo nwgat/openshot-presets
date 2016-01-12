@@ -13,7 +13,7 @@ Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
 Opus  | 256kbps | 169kbps | 96kbps
 
-**Current Generation Codecs**
+**Current Generation Video Codecs**
 
 
 Codec  | High | Medium | Low
@@ -21,7 +21,7 @@ Codec  | High | Medium | Low
 VP8  | 24Mbps | 12Mbps | 6Mbps
 x264 | 24Mbps | 12Mbps | 6Mbps
 
-**Next Generation Codecs**
+**Next Generation Video Codecs**
 
 Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
