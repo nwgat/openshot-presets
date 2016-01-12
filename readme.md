@@ -28,6 +28,8 @@ Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
 VP9  | 12Mbps | 6Mbps | 3Mbps
 x265 | 12Mbps | 6Mbps | 3Mbps
+VP9 (UltraHD)  | 32Mbps | 24Mbps | 12Mbps
+x265 (UltraHD)  | 32Mbps | 24Mbps | 12Mbps
 
 **Daala Codec**
 will be added when supported by libav and openshot
