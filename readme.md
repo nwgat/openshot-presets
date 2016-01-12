@@ -10,15 +10,24 @@ Matroska Container (more awesome than anything else and its natively supported o
 Audio Codec by the IETF, its superior by alot of  devices already and its basicly the cream-la-cream of audio its far supirior to mp3/aac and is the sucessor to vorbis
 96,169,256kbps
 
+Codec  | High | Medium | Low
+------------- | -------------  | -------------  | ------------- 
+Opus  | 256kbps | 169kbps | 96kbps
+
 **Current Generation Codecs**
 
-VP8 (6,12,24mbps)
-x264 (6,12,24mbps) 
+
+Codec  | High | Medium | Low
+------------- | -------------  | -------------  | ------------- 
+VP8  | 24Mbps | 12Mbps | 6Mbps
+x264 | 24Mbps | 12Mbps | 6Mbps
 
 **Next Generation Codecs**
 
-VP9 (3,6,12mbps)
-x265 (3,6,12mbps)
+Codec  | High | Medium | Low
+------------- | -------------  | -------------  | ------------- 
+VP9  | 12Mbps | 6Mbps | 3Mbps
+x265 | 12Mbps | 6Mbps | 3Mbps
 
 **Daala Codec**
 will be added when supported by libav and openshot
