@@ -7,8 +7,7 @@ Matroska Container (more awesome than anything else and its natively supported o
 
 **Opus Audio Codec**
 
-Audio Codec by the IETF, its superior by alot of  devices already and its basicly the cream-la-cream of audio its far supirior to mp3/aac and is the sucessor to vorbis
-96,169,256kbps
+Audio Codec by the IETF, its supported by alot of devices already and is basicly the cream-la-cream of audio as its far supirior to mp3/aac and is the sucessor to vorbis
 
 Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
