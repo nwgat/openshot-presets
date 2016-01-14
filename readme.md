@@ -1,5 +1,6 @@
 ##Nwgat OpenShot Encode Profiles##
 Best video and audio for a given filesize
+for those that likes quality above compatibility 
 
 **MKV Container**
 
@@ -14,7 +15,6 @@ Codec  | High | Medium | Low
 Opus  | 256kbps | 169kbps | 96kbps
 
 **Current Generation Video Codecs**
-
 
 Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
