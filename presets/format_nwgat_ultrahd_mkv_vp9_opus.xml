@@ -2,15 +2,15 @@
 <!DOCTYPE openshot-export-option>
 <export-option>
 	<type translatable="True">nwgat.ninja</type>
-	<title translatable="True">Nwgat MKV (VP9/Opus)</title>
+	<title translatable="True">Nwgat UltraHD MKV (VP9/Opus)</title>
 	<videoformat>mkv</videoformat>
 	<videocodec>libvpx-vp9</videocodec>
 	<audiocodec>libopus</audiocodec>
 	<audiochannels>2</audiochannels>
 	<videobitrate
-	 low="3 Mb/s"
-	 med="6 Mb/s"
-	 high="12.00 Mb/s"></videobitrate>
+	 low="12 Mb/s"
+	 med="24 Mb/s"
+	 high="32 Mb/s"></videobitrate>
 	<audiobitrate
 	 low="96 kb/s"
 	 med="169 kb/s"

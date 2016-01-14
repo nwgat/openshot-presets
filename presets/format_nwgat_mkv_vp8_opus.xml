@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE openshot-export-option>
 <export-option>
-	<type translatable="True">Nwgat Awesome Profiles</type>
+	<type translatable="True">nwgat.ninja</type>
 	<title translatable="True">Nwgat MKV (VP8/Opus)</title>
 	<videoformat>mkv</videoformat>
 	<videocodec>libvpx</videocodec>
