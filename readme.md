@@ -1,4 +1,4 @@
-##Nwgat OpenShot Encode Profiles##
+##Nwgat High Quality Presets for OpenShot##
 Best video and audio for a given filesize
 for those that likes quality above compatibility 
 
