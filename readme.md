@@ -1,4 +1,4 @@
-##Nwgat High Quality Presets for OpenShot
+##Nwgat High Quality Presets for OpenShot 2.0
 http://nwgat.ninja/openshot
 
 Best video and audio for a given filesize
