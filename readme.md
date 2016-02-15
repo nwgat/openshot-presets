@@ -49,6 +49,7 @@ VP9  | 12Mbps | 6Mbps | 3Mbps
 x265 | 12Mbps | 6Mbps | 3Mbps
 
 **Next Generation Codecs (UltraHD)**
+This one includes flacified versions
 
 Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
