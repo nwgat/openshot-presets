@@ -26,9 +26,9 @@ for those that likes quality above compatibility
 * [Download Zip](https://github.com/nwgat/openshot/archive/master.zip)
 * Extract to C:\Program Files (x86)\OpenShot Video Editor
 
-Matroska Container (more awesome than anything else and its natively supported on Linux, Windows 10, many media players)
+**Matroska Container** more awesome than anything else and its natively supported on Linux, Windows 10, many media players
 
-Opus Audio Codec by the IETF, its supported by alot of devices already and is basicly the cream-la-cream of audio as its far supirior to mp3/aac and is the sucessor to vorbis
+**Opus Audio Codec** by the IETF, its supported by alot of devices already and is basicly the cream-la-cream of audio as its far supirior to mp3/aac and is the sucessor to vorbis
 
 Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
