@@ -2,18 +2,19 @@
 <!DOCTYPE openshot-export-option>
 <export-option>
 	<type translatable="True">nwgat.ninja</type>
-	<title translatable="True">Nwgat MKV (x265/Opus)</title>
+	<title translatable="True">nwgat mkv (x264/opus)</title>
 	<videoformat>mkv</videoformat>
-	<videocodec>libx265</videocodec>
+	<videocodec>libx264</videocodec>
 	<audiocodec>libopus</audiocodec>
 	<audiochannels>2</audiochannels>
+	<audiochannellayout>3</audiochannellayout>
 	<videobitrate
-	 low="3 Mb/s"
-	 med="6 Mb/s"
-	 high="12.00 Mb/s"></videobitrate>
+	 low="384 kb/s"
+	 med="5 Mb/s"
+	 high="15.00 Mb/s"></videobitrate>
 	<audiobitrate
 	 low="96 kb/s"
-	 med="169 kb/s"
-	 high="256 kb/s"></audiobitrate>
-	<samplerate>48000</samplerate>
+	 med="128 kb/s"
+	 high="192 kb/s"></audiobitrate>
+	<samplerate>44100</samplerate>
 </export-option>

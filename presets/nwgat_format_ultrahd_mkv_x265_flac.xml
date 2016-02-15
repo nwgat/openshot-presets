@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE openshot-export-option>
+<export-option>
+	<type translatable="True">nwgat.ninja</type>
+	<title translatable="True">nwgat ultrahd mkv (x265/flac)</title>
+	<videoformat>mkv</videoformat>
+	<videocodec>libx265</videocodec>
+	<audiocodec>libflac</audiocodec>
+	<audiochannels>2</audiochannels>
+	<audiochannellayout>3</audiochannellayout>
+	<videobitrate
+	 low="12 Mb/s"
+	 med="24 Mb/s"
+	 high="32.00 Mb/s"></videobitrate>
+	<audiobitrate
+	 low="96 kb/s"
+	 med="192 kb/s"
+	 high="256 kb/s"></audiobitrate>
+	<samplerate>48000</samplerate>
+</export-option>
