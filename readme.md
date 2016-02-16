@@ -13,10 +13,9 @@ Best video and audio for a given filesize
 for those that likes quality above compatibility 
 
 **Linux**
-* `cd /usr/lib/python3/dist-packages/openshot_qt/`
-* `sudo git clone https://github.com/nwgat/openshot.git nwgat-profiles`
-* `sudo mv nwgat-profiles/presets/* presets/`
-* `sudo mv nwgat-profiles/profiles/* profiles/`
+* `sudo git clone https://github.com/nwgat/openshot-presets.git`
+* `sudo mv openshot-presets/presets/* /usr/lib/python3/dist-packages/openshot_qt/presets/`
+* `sudo mv openshot-presets/profiles/* /usr/lib/python3/dist-packages/openshot_qt/profiles/`
 
 **Windows**
 * [Download Zip](https://github.com/nwgat/openshot/archive/master.zip)
