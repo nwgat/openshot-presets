@@ -1,3 +1,5 @@
+openshot is still beta so this might break
+
 ##Nwgat High Quality Presets for OpenShot 2.0
 https://github.com/nwgat/openshot-presets
 
