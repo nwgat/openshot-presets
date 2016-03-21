@@ -5,7 +5,7 @@
 	<title translatable="True">nwgat ultrahd mkv (x265/flac)</title>
 	<videoformat>mkv</videoformat>
 	<videocodec>libx265</videocodec>
-	<audiocodec>libflac</audiocodec>
+	<audiocodec>flac</audiocodec>
 	<audiochannels>2</audiochannels>
 	<audiochannellayout>3</audiochannellayout>
 	<videobitrate
