@@ -5,7 +5,6 @@ https://github.com/nwgat/openshot-presets
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Matroska-logo-128x128.png"height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Opus_logo2.svg/320px-Opus_logo2.svg.png"height="40" />
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vp8-logo-for-mediawiki.svg/320px-Vp8-logo-for-mediawiki.svg.png"height="30" />
 <img src="http://screenshots.en.sftcdn.net/en/scrn/64000/64827/x264-video-codec-1.jpg"height="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Vp9-logo-for-mediawiki.svg/320px-Vp9-logo-for-mediawiki.svg.png"height="30" />
@@ -13,19 +12,6 @@ https://github.com/nwgat/openshot-presets
 
 Best video and audio for a given filesize
 for those that likes quality above compatibility 
-
-**Linux**
-* `sudo git clone https://github.com/nwgat/openshot-presets.git`
-* `sudo mv openshot-presets/presets/* /usr/lib/python3/dist-packages/openshot_qt/presets/`
-* `sudo mv openshot-presets/profiles/* /usr/lib/python3/dist-packages/openshot_qt/profiles/`
-
-**Windows**
-* [Download Zip](https://github.com/nwgat/openshot/archive/master.zip)
-* Extract to C:\Program Files\OpenShot Video Editor
-
-**Windows (64-bit)**
-* [Download Zip](https://github.com/nwgat/openshot/archive/master.zip)
-* Extract to C:\Program Files (x86)\OpenShot Video Editor
 
 **Matroska Container** 
 more awesome than anything else and its natively supported on Linux, Windows 10, many media players
@@ -58,6 +44,13 @@ Codec  | High | Medium | Low
 ------------- | -------------  | -------------  | ------------- 
 VP9 (UltraHD)  | 32Mbps | 24Mbps | 12Mbps
 x265 (UltraHD)  | 32Mbps | 24Mbps | 12Mbps
+
+
+**See wiki**
+
+* [Quick Install](https://github.com/nwgat/openshot-presets/wiki/Quick-Install)
+* [Playback on Linux](https://github.com/nwgat/openshot-presets/wiki/Playback-on-Linux)
+* [Playback on Windows]()
 
 **Screenshot**
 
